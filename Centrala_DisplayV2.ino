@@ -13,8 +13,8 @@
 #define OLED_RESET LED_BUILTIN  //4
 Adafruit_SSD1306 display(OLED_RESET);
  
-const char* ssid = "StresS";
-const char* password = "adrian75369";
+const char* ssid = "WIFI";
+const char* password = "PASS";
  
 void setup() {
   delay(1000);
